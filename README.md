@@ -7,7 +7,7 @@ Writeup del sherlock retirado DreamJob-1 de la plataforma HackThebox, el cual se
 
 ---------------
 
-![Logo](https://github.com/DanielFadrique/DreamJob-1-HTB-WriteUp-Espa-ol-/blob/main/img/img/Pasted image 20251003121152.png)
+![Logo](https://github.com/DanielFadrique/DreamJob-1-HTB-WriteUp-Espa-ol-/blob/main/img/img/Pasted%20image%2020251003121152.png)
 
 El laboratorio Sherlock **DreamJob-1** de la plataforma **HackTheBox**, es un laboratorio con una temática bastante importante sobre el *Threat Intelligence* dentro del campo de la ciberseguridad, este laboratorio nos hace utilizar herramientas como la pagina de [MITRE ATT&CK](https://attack.mitre.org/) Y [Virustotal](https://www.virustotal.com/gui/home/upload), para así ver como estas herramientas son fundamentales en la investigación de posibles ataques, ya sean del mismo grupo investigado o de otros algo mas pequeños, pero que utilizan la misma metodología de ataque(también conocido como Cyber Kill Chain). Con estas investigaciones realizadas, nos dará una imagen de lo que puede ocurrir y como podemos prevenir esos ataques usando métodos de defensa en nuestros sistemas para que no caiga en manos equivocadas.
 
