@@ -185,6 +185,6 @@ Ahora nos vamos a mover a la peestaña de *Relations*, ahi, encontramos el apart
 
 -------------------
 
-Daniel Fadrique #2025
+*Daniel Fadrique #2025*
 
  <!-- Daniel Fadrique ##2025 *Pax et Libertas* -->
